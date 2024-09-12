@@ -1,7 +1,7 @@
 
 ## Olá! Seja bem-vindo(a) ao meu perfil do github.
 
-- 🌱 Atualmente aprendendo React, C++ e Git
+- 🌱 Atualmente aprendendo React, C e Tailwind
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
