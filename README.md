@@ -1,7 +1,7 @@
 
-## Olá! Seja bem-vindo(a) ao meu perfil do github.
+## Hi! Welcome to my GitHUb profile.
 
-- 🌱 Atualmente aprendendo React, Tailwind e Node
+- 📖 Currently learning C#.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
