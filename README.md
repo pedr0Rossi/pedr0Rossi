@@ -1,5 +1,5 @@
 
-## Hi! Welcome to my GitHUb profile.
+## Hi! Welcome to my GitHub profile.
 
 - 📖 Currently learning COBOL, C#, .NET and React.
 
